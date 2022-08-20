@@ -1,0 +1,15 @@
+C:\Users\WISE\Desktop\C#DZ\DZ1-4zadachi\bin\Debug\net6.0\DZ1-4zadachi.exe
+C:\Users\WISE\Desktop\C#DZ\DZ1-4zadachi\bin\Debug\net6.0\DZ1-4zadachi.deps.json
+C:\Users\WISE\Desktop\C#DZ\DZ1-4zadachi\bin\Debug\net6.0\DZ1-4zadachi.runtimeconfig.json
+C:\Users\WISE\Desktop\C#DZ\DZ1-4zadachi\bin\Debug\net6.0\DZ1-4zadachi.dll
+C:\Users\WISE\Desktop\C#DZ\DZ1-4zadachi\bin\Debug\net6.0\DZ1-4zadachi.pdb
+C:\Users\WISE\Desktop\C#DZ\DZ1-4zadachi\obj\Debug\net6.0\DZ1-4zadachi.csproj.AssemblyReference.cache
+C:\Users\WISE\Desktop\C#DZ\DZ1-4zadachi\obj\Debug\net6.0\DZ1-4zadachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WISE\Desktop\C#DZ\DZ1-4zadachi\obj\Debug\net6.0\DZ1-4zadachi.AssemblyInfoInputs.cache
+C:\Users\WISE\Desktop\C#DZ\DZ1-4zadachi\obj\Debug\net6.0\DZ1-4zadachi.AssemblyInfo.cs
+C:\Users\WISE\Desktop\C#DZ\DZ1-4zadachi\obj\Debug\net6.0\DZ1-4zadachi.csproj.CoreCompileInputs.cache
+C:\Users\WISE\Desktop\C#DZ\DZ1-4zadachi\obj\Debug\net6.0\DZ1-4zadachi.dll
+C:\Users\WISE\Desktop\C#DZ\DZ1-4zadachi\obj\Debug\net6.0\refint\DZ1-4zadachi.dll
+C:\Users\WISE\Desktop\C#DZ\DZ1-4zadachi\obj\Debug\net6.0\DZ1-4zadachi.pdb
+C:\Users\WISE\Desktop\C#DZ\DZ1-4zadachi\obj\Debug\net6.0\DZ1-4zadachi.genruntimeconfig.cache
+C:\Users\WISE\Desktop\C#DZ\DZ1-4zadachi\obj\Debug\net6.0\ref\DZ1-4zadachi.dll
