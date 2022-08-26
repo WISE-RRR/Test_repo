@@ -19,10 +19,10 @@
 
 // Console.Write("Введите число: ");
 // int num = Convert.ToInt32(Console.ReadLine());
-// string numText = Convert.ToString(num);
+// string numText = Convert.ToString(num); //Перевод целочисленного num в строчный вид
 // if (numText.Length > 2)
 // {
-//   Console.WriteLine("Третья цифра числа: " + numText[2]);
+//   Console.WriteLine("Третья цифра числа: " + numText[2]); //Вывод ячейки строки с индексом 2
 // }
 // else 
 // {
@@ -45,7 +45,7 @@
 //   {
 //     Console.WriteLine("Нет такого дня недели.");
 //   }
-//   else Console.WriteLine("Скука, будний день.");
+//   else Console.WriteLine("Бу, будний день.");
 // }
 
 // CheckingTheDayOfTheWeek(weekday);
