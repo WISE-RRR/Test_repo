@@ -71,43 +71,43 @@
 
 // Задача 52. Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.
 
-void CreateArray(int[,] array)
-{
-    for (int i = 0; i < array.GetLength(0); i++)
-        for (int j = 0; j < array.GetLength(1); j++)
-            array[i, j] = new Random().Next(0, 100);
-}
+// void CreateArray(int[,] array)
+// {
+//     for (int i = 0; i < array.GetLength(0); i++)
+//         for (int j = 0; j < array.GetLength(1); j++)
+//             array[i, j] = new Random().Next(0, 100);
+// }
 
-void ShowArray(int[,] array)
-{
-    for (int i = 0; i < array.GetLength(0); i++)
-    {
-        for (int j = 0; j < array.GetLength(1); j++)
-        {
-            Console.Write(array[i, j] + " ");
-        }
-        Console.WriteLine("");
-    }
-}
+// void ShowArray(int[,] array)
+// {
+//     for (int i = 0; i < array.GetLength(0); i++)
+//     {
+//         for (int j = 0; j < array.GetLength(1); j++)
+//         {
+//             Console.Write(array[i, j] + " ");
+//         }
+//         Console.WriteLine("");
+//     }
+// }
 
-Console.Write("Введите количество строк: ");
-int m = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите количество столбцов: ");
-int n = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Введите количество строк: ");
+// int m = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Введите количество столбцов: ");
+// int n = Convert.ToInt32(Console.ReadLine());
 
-int[,] numbers = new int[m, n];
-CreateArray(numbers);
-ShowArray(numbers);
-Console.WriteLine();
-Console.WriteLine("Среднее арифметическое столбцов массива: ");
-for (int j = 0; j < numbers.GetLength(1); j++)
-{
-    int avarage = 0;
-    for (int i = 0; i < numbers.GetLength(0); i++)
-    {
-        avarage = (avarage + numbers[i, j]);
-    }
-    avarage = avarage / m;
-    Console.Write(avarage + "; ");
-}
+// int[,] numbers = new int[m, n];
+// CreateArray(numbers);
+// ShowArray(numbers);
+// Console.WriteLine();
+// Console.WriteLine("Среднее арифметическое столбцов массива: ");
+// for (int j = 0; j < numbers.GetLength(1); j++)
+// {
+//     int avarage = 0;
+//     for (int i = 0; i < numbers.GetLength(0); i++)
+//     {
+//         avarage = (avarage + numbers[i, j]);
+//     }
+//     avarage = avarage / m;
+//     Console.Write(avarage + "; ");
+// }
 
